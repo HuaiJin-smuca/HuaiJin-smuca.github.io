@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>怀今的博客</title>
+    <link>https://huaijin-smuca.github.io</link>
+    <description>写诗，也写那些转瞬即逝的念头。</description>
+    <language>zh-CN</language>
+    <managingEditor>yangliuhuaijin@gmail.com (怀今)</managingEditor>
+    <webMaster>yangliuhuaijin@gmail.com (怀今)</webMaster>
+    <lastBuildDate>Fri, 28 Aug 2026 03:16:13 GMT</lastBuildDate>
+    <item>
+      <title>个人web开发感想</title>
+      <link>https://huaijin-smuca.github.io/blog/个人web开发感想</link>
+      <guid isPermaLink="true">https://huaijin-smuca.github.io/blog/个人web开发感想</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <description>从零搭建一个个人网站的过程中，对前端工程化与后端轻量部署的一些粗浅思考。（测试示例）</description>
+    </item>
+    <item>
+      <title>日常生活示例</title>
+      <link>https://huaijin-smuca.github.io/blog/日常生活示例</link>
+      <guid isPermaLink="true">https://huaijin-smuca.github.io/blog/日常生活示例</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <description>这是一篇用于演示&quot;日常生活&quot;类别的示例文章，用于初版本开发测试</description>
+    </item>
+    <item>
+      <title>关于写作的几点思考</title>
+      <link>https://huaijin-smuca.github.io/blog/on-writing</link>
+      <guid isPermaLink="true">https://huaijin-smuca.github.io/blog/on-writing</guid>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+      <description>写作不是表达，而是发现。当你落笔的那一刻，你才知道自己真正在想什么。</description>
+    </item>
+    <item>
+      <title>读《存在与时间》札记</title>
+      <link>https://huaijin-smuca.github.io/blog/being-and-time-notes</link>
+      <guid isPermaLink="true">https://huaijin-smuca.github.io/blog/being-and-time-notes</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+      <description>此在不问你是谁，只说你&quot;在此&quot;。而&quot;在此&quot;，已经是一种全部了。</description>
+    </item>
+    <item>
+      <title>南京的秋天</title>
+      <link>https://huaijin-smuca.github.io/blog/nanjing-autumn</link>
+      <guid isPermaLink="true">https://huaijin-smuca.github.io/blog/nanjing-autumn</guid>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+      <description>梧桐叶落的时候，我听见这座城市在呼吸。秋天不是季节，是一种存在方式。</description>
+    </item>
+  </channel>
+</rss>
