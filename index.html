@@ -3,8 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#ffffff">
   <title>怀今的主页</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
+  <script>
+    (function () {
+      var saved = null
+      try { saved = localStorage.getItem('theme') } catch (e) {}
+      var theme = (saved === 'light' || saved === 'dark')
+        ? saved
+        : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+      document.documentElement.setAttribute('data-theme', theme)
+    })()
+  </script>
   <script>
     (function () {
       var p = sessionStorage.getItem('ghpages-redirect')
@@ -14,8 +25,8 @@
       }
     })()
   </script>
-  <script type="module" crossorigin src="/assets/index-BxyqpNxw.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-WSGvkf4m.css">
+  <script type="module" crossorigin src="/assets/index-64axQlFR.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-CG04YkVQ.css">
 </head>
 <body>
   <div id="root"></div>
