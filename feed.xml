@@ -7,20 +7,20 @@
     <language>zh-CN</language>
     <managingEditor>yangliuhuaijin@gmail.com (怀今)</managingEditor>
     <webMaster>yangliuhuaijin@gmail.com (怀今)</webMaster>
-    <lastBuildDate>Fri, 11 Sep 2026 02:36:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:20:24 GMT</lastBuildDate>
+    <item>
+      <title>存有之诗</title>
+      <link>https://huaijin-smuca.github.io/blog/感存有之诗</link>
+      <guid isPermaLink="true">https://huaijin-smuca.github.io/blog/感存有之诗</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <description>与文字共鸣，流散了追忆</description>
+    </item>
     <item>
       <title>个人web开发感想</title>
       <link>https://huaijin-smuca.github.io/blog/个人web开发感想</link>
       <guid isPermaLink="true">https://huaijin-smuca.github.io/blog/个人web开发感想</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <description>从零搭建一个个人网站的过程中，对前端工程化与后端轻量部署的一些粗浅思考。（测试示例）</description>
-    </item>
-    <item>
-      <title>日常生活示例</title>
-      <link>https://huaijin-smuca.github.io/blog/日常生活示例</link>
-      <guid isPermaLink="true">https://huaijin-smuca.github.io/blog/日常生活示例</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description>这是一篇用于演示&quot;日常生活&quot;类别的示例文章，用于初版本开发测试</description>
     </item>
     <item>
       <title>关于写作的几点思考</title>
