@@ -1,0 +1,190 @@
+{
+  "_PageHeader-BwFPL4ME.js": {
+    "file": "assets/PageHeader-BwFPL4ME.js",
+    "name": "PageHeader",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_blog-posts-KM6738cL.js": {
+    "file": "assets/blog-posts-KM6738cL.js",
+    "name": "blog-posts"
+  },
+  "_rss-items-KTkJdEww.js": {
+    "file": "assets/rss-items-KTkJdEww.js",
+    "name": "rss-items"
+  },
+  "_wiki-search-CQSZVYQ6.js": {
+    "file": "assets/wiki-search-CQSZVYQ6.js",
+    "name": "wiki-search"
+  },
+  "index.html": {
+    "file": "assets/index-DHPzhvI0.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/pages/AboutPage.jsx",
+      "src/pages/PsycheDetailPage.jsx",
+      "src/pages/WorkPage.jsx",
+      "src/pages/WorkDetail.jsx",
+      "src/pages/BlogPage.jsx",
+      "src/pages/BlogPost.jsx",
+      "src/pages/RssPage.jsx",
+      "src/pages/AiChatPage.jsx",
+      "src/pages/ArchivePage.jsx",
+      "src/pages/StatusPage.jsx",
+      "src/pages/ContactPage.jsx",
+      "src/pages/NotFoundPage.jsx",
+      "src/components/WorkMap.jsx"
+    ],
+    "css": [
+      "assets/index-BXzypHHB.css"
+    ],
+    "assets": [
+      "assets/day-mountains-Dh6NkSVf.svg"
+    ]
+  },
+  "src/assets/scenery/day-mountains.svg": {
+    "file": "assets/day-mountains-Dh6NkSVf.svg",
+    "src": "src/assets/scenery/day-mountains.svg"
+  },
+  "src/components/WorkMap.jsx": {
+    "file": "assets/WorkMap-CkEtqbgF.js",
+    "name": "WorkMap",
+    "src": "src/components/WorkMap.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/pages/AboutPage.jsx": {
+    "file": "assets/AboutPage-4DjqpwqO.js",
+    "name": "AboutPage",
+    "src": "src/pages/AboutPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  },
+  "src/pages/AiChatPage.jsx": {
+    "file": "assets/AiChatPage-iMKOi2oT.js",
+    "name": "AiChatPage",
+    "src": "src/pages/AiChatPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  },
+  "src/pages/ArchivePage.jsx": {
+    "file": "assets/ArchivePage-BWzeWTZN.js",
+    "name": "ArchivePage",
+    "src": "src/pages/ArchivePage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  },
+  "src/pages/BlogPage.jsx": {
+    "file": "assets/BlogPage-C-JFqdVl.js",
+    "name": "BlogPage",
+    "src": "src/pages/BlogPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_blog-posts-KM6738cL.js",
+      "_wiki-search-CQSZVYQ6.js",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  },
+  "src/pages/BlogPost.jsx": {
+    "file": "assets/BlogPost-BwECXAF4.js",
+    "name": "BlogPost",
+    "src": "src/pages/BlogPost.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_blog-posts-KM6738cL.js",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  },
+  "src/pages/ContactPage.jsx": {
+    "file": "assets/ContactPage-BXo9SRcu.js",
+    "name": "ContactPage",
+    "src": "src/pages/ContactPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  },
+  "src/pages/NotFoundPage.jsx": {
+    "file": "assets/NotFoundPage-DYjt5s6I.js",
+    "name": "NotFoundPage",
+    "src": "src/pages/NotFoundPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  },
+  "src/pages/PsycheDetailPage.jsx": {
+    "file": "assets/PsycheDetailPage-CN1uxom9.js",
+    "name": "PsycheDetailPage",
+    "src": "src/pages/PsycheDetailPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  },
+  "src/pages/RssPage.jsx": {
+    "file": "assets/RssPage-BCM3zCii.js",
+    "name": "RssPage",
+    "src": "src/pages/RssPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_rss-items-KTkJdEww.js",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  },
+  "src/pages/StatusPage.jsx": {
+    "file": "assets/StatusPage-DL7RffaB.js",
+    "name": "StatusPage",
+    "src": "src/pages/StatusPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_PageHeader-BwFPL4ME.js",
+      "_rss-items-KTkJdEww.js"
+    ]
+  },
+  "src/pages/WorkDetail.jsx": {
+    "file": "assets/WorkDetail-DBwRlvBD.js",
+    "name": "WorkDetail",
+    "src": "src/pages/WorkDetail.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_wiki-search-CQSZVYQ6.js",
+      "_PageHeader-BwFPL4ME.js"
+    ],
+    "dynamicImports": [
+      "src/components/WorkMap.jsx"
+    ]
+  },
+  "src/pages/WorkPage.jsx": {
+    "file": "assets/WorkPage-CC7RZI1J.js",
+    "name": "WorkPage",
+    "src": "src/pages/WorkPage.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_PageHeader-BwFPL4ME.js"
+    ]
+  }
+}
