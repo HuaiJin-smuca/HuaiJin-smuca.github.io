@@ -1,17 +1,27 @@
 {
-  "_PageHeader-BwFPL4ME.js": {
-    "file": "assets/PageHeader-BwFPL4ME.js",
+  "_Comments-BuQ_Hi7b.js": {
+    "file": "assets/Comments-BuQ_Hi7b.js",
+    "name": "Comments",
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "node_modules/@giscus/react/dist/giscus-Ci9LqPcC.js"
+    ]
+  },
+  "_PageHeader-BtZdJirx.js": {
+    "file": "assets/PageHeader-BtZdJirx.js",
     "name": "PageHeader",
     "imports": [
       "index.html"
     ]
   },
-  "_blog-posts-KM6738cL.js": {
-    "file": "assets/blog-posts-KM6738cL.js",
+  "_blog-posts-oBepC8t8.js": {
+    "file": "assets/blog-posts-oBepC8t8.js",
     "name": "blog-posts"
   },
-  "_rss-items-KTkJdEww.js": {
-    "file": "assets/rss-items-KTkJdEww.js",
+  "_rss-items-D3tVufJ6.js": {
+    "file": "assets/rss-items-D3tVufJ6.js",
     "name": "rss-items"
   },
   "_wiki-search-CQSZVYQ6.js": {
@@ -19,7 +29,7 @@
     "name": "wiki-search"
   },
   "index.html": {
-    "file": "assets/index-DHPzhvI0.js",
+    "file": "assets/index-DP-t45xj.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -39,18 +49,24 @@
       "src/components/WorkMap.jsx"
     ],
     "css": [
-      "assets/index-BXzypHHB.css"
+      "assets/index-BhUaWhpc.css"
     ],
     "assets": [
       "assets/day-mountains-Dh6NkSVf.svg"
     ]
+  },
+  "node_modules/@giscus/react/dist/giscus-Ci9LqPcC.js": {
+    "file": "assets/giscus-Ci9LqPcC-BNebfDgq.js",
+    "name": "giscus-Ci9LqPcC",
+    "src": "node_modules/@giscus/react/dist/giscus-Ci9LqPcC.js",
+    "isDynamicEntry": true
   },
   "src/assets/scenery/day-mountains.svg": {
     "file": "assets/day-mountains-Dh6NkSVf.svg",
     "src": "src/assets/scenery/day-mountains.svg"
   },
   "src/components/WorkMap.jsx": {
-    "file": "assets/WorkMap-CkEtqbgF.js",
+    "file": "assets/WorkMap-CD7aagln.js",
     "name": "WorkMap",
     "src": "src/components/WorkMap.jsx",
     "isDynamicEntry": true,
@@ -59,132 +75,134 @@
     ]
   },
   "src/pages/AboutPage.jsx": {
-    "file": "assets/AboutPage-4DjqpwqO.js",
+    "file": "assets/AboutPage-CzYNttOb.js",
     "name": "AboutPage",
     "src": "src/pages/AboutPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BwFPL4ME.js"
+      "_PageHeader-BtZdJirx.js"
     ]
   },
   "src/pages/AiChatPage.jsx": {
-    "file": "assets/AiChatPage-iMKOi2oT.js",
+    "file": "assets/AiChatPage-BOArDLB6.js",
     "name": "AiChatPage",
     "src": "src/pages/AiChatPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BwFPL4ME.js"
+      "_PageHeader-BtZdJirx.js"
     ]
   },
   "src/pages/ArchivePage.jsx": {
-    "file": "assets/ArchivePage-BWzeWTZN.js",
+    "file": "assets/ArchivePage-BFIKvQwX.js",
     "name": "ArchivePage",
     "src": "src/pages/ArchivePage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BwFPL4ME.js"
+      "_PageHeader-BtZdJirx.js"
     ]
   },
   "src/pages/BlogPage.jsx": {
-    "file": "assets/BlogPage-C-JFqdVl.js",
+    "file": "assets/BlogPage-BS-1vnHr.js",
     "name": "BlogPage",
     "src": "src/pages/BlogPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_blog-posts-KM6738cL.js",
+      "_blog-posts-oBepC8t8.js",
       "_wiki-search-CQSZVYQ6.js",
-      "_PageHeader-BwFPL4ME.js"
+      "_PageHeader-BtZdJirx.js"
     ]
   },
   "src/pages/BlogPost.jsx": {
-    "file": "assets/BlogPost-BwECXAF4.js",
+    "file": "assets/BlogPost-C8tdIy5l.js",
     "name": "BlogPost",
     "src": "src/pages/BlogPost.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_blog-posts-KM6738cL.js",
-      "_PageHeader-BwFPL4ME.js"
+      "_blog-posts-oBepC8t8.js",
+      "_PageHeader-BtZdJirx.js",
+      "_Comments-BuQ_Hi7b.js"
     ]
   },
   "src/pages/ContactPage.jsx": {
-    "file": "assets/ContactPage-BXo9SRcu.js",
+    "file": "assets/ContactPage-BcteRNkC.js",
     "name": "ContactPage",
     "src": "src/pages/ContactPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BwFPL4ME.js"
+      "_PageHeader-BtZdJirx.js"
     ]
   },
   "src/pages/NotFoundPage.jsx": {
-    "file": "assets/NotFoundPage-DYjt5s6I.js",
+    "file": "assets/NotFoundPage-BoGGu0GE.js",
     "name": "NotFoundPage",
     "src": "src/pages/NotFoundPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BwFPL4ME.js"
+      "_PageHeader-BtZdJirx.js"
     ]
   },
   "src/pages/PsycheDetailPage.jsx": {
-    "file": "assets/PsycheDetailPage-CN1uxom9.js",
+    "file": "assets/PsycheDetailPage-CgSdlrZz.js",
     "name": "PsycheDetailPage",
     "src": "src/pages/PsycheDetailPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BwFPL4ME.js"
+      "_PageHeader-BtZdJirx.js"
     ]
   },
   "src/pages/RssPage.jsx": {
-    "file": "assets/RssPage-BCM3zCii.js",
+    "file": "assets/RssPage-CTZXqMLQ.js",
     "name": "RssPage",
     "src": "src/pages/RssPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_rss-items-KTkJdEww.js",
-      "_PageHeader-BwFPL4ME.js"
+      "_rss-items-D3tVufJ6.js",
+      "_PageHeader-BtZdJirx.js"
     ]
   },
   "src/pages/StatusPage.jsx": {
-    "file": "assets/StatusPage-DL7RffaB.js",
+    "file": "assets/StatusPage-nBu1wF2d.js",
     "name": "StatusPage",
     "src": "src/pages/StatusPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BwFPL4ME.js",
-      "_rss-items-KTkJdEww.js"
+      "_PageHeader-BtZdJirx.js",
+      "_rss-items-D3tVufJ6.js"
     ]
   },
   "src/pages/WorkDetail.jsx": {
-    "file": "assets/WorkDetail-DBwRlvBD.js",
+    "file": "assets/WorkDetail-D_WLT3HG.js",
     "name": "WorkDetail",
     "src": "src/pages/WorkDetail.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_wiki-search-CQSZVYQ6.js",
-      "_PageHeader-BwFPL4ME.js"
+      "_PageHeader-BtZdJirx.js",
+      "_Comments-BuQ_Hi7b.js"
     ],
     "dynamicImports": [
       "src/components/WorkMap.jsx"
     ]
   },
   "src/pages/WorkPage.jsx": {
-    "file": "assets/WorkPage-CC7RZI1J.js",
+    "file": "assets/WorkPage-OTazz4Wa.js",
     "name": "WorkPage",
     "src": "src/pages/WorkPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BwFPL4ME.js"
+      "_PageHeader-BtZdJirx.js"
     ]
   }
 }
