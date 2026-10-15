@@ -1,6 +1,14 @@
 {
-  "_Comments-C61K2SHe.js": {
-    "file": "assets/Comments-C61K2SHe.js",
+  "../Music/Canon in D (Pachelbel s Canon) - Cello Piano BEST WEDDING VERSION.mp3": {
+    "file": "assets/Canon in D (Pachelbel s Canon) - Cello Piano BEST WEDDING VERSION-CizaVg-k.mp3",
+    "src": "../Music/Canon in D (Pachelbel s Canon) - Cello Piano BEST WEDDING VERSION.mp3"
+  },
+  "../Music/【送别】- Dreaming of Home and Mother （English Version) [vdm7845EW8M].mp3": {
+    "file": "assets/【送别】- Dreaming of Home and Mother （English Version) _vdm7845EW8M_-BYceS1Yx.mp3",
+    "src": "../Music/【送别】- Dreaming of Home and Mother （English Version) [vdm7845EW8M].mp3"
+  },
+  "_Comments-D5vKcKXu.js": {
+    "file": "assets/Comments-D5vKcKXu.js",
     "name": "Comments",
     "imports": [
       "index.html"
@@ -9,8 +17,8 @@
       "node_modules/@giscus/react/dist/giscus-Ci9LqPcC.js"
     ]
   },
-  "_PageHeader-CCFxKg9d.js": {
-    "file": "assets/PageHeader-CCFxKg9d.js",
+  "_PageHeader-CBZ5ceBS.js": {
+    "file": "assets/PageHeader-CBZ5ceBS.js",
     "name": "PageHeader",
     "imports": [
       "index.html"
@@ -20,8 +28,8 @@
     "file": "assets/blog-posts-oBepC8t8.js",
     "name": "blog-posts"
   },
-  "_rss-items-AodRIDA9.js": {
-    "file": "assets/rss-items-AodRIDA9.js",
+  "_rss-items-DPKTXSwv.js": {
+    "file": "assets/rss-items-DPKTXSwv.js",
     "name": "rss-items"
   },
   "_wiki-search-CQSZVYQ6.js": {
@@ -29,11 +37,12 @@
     "name": "wiki-search"
   },
   "index.html": {
-    "file": "assets/index-CKX6QkgG.js",
+    "file": "assets/index-DGxgWiKN.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
+      "src/utils/music-player.js",
       "src/pages/AboutPage.jsx",
       "src/pages/PsycheDetailPage.jsx",
       "src/pages/WorkPage.jsx",
@@ -49,7 +58,7 @@
       "src/components/WorkMap.jsx"
     ],
     "css": [
-      "assets/index-zPMmYdth.css"
+      "assets/index-ghim3KyS.css"
     ],
     "assets": [
       "assets/day-mountains-Dh6NkSVf.svg"
@@ -66,7 +75,7 @@
     "src": "src/assets/scenery/day-mountains.svg"
   },
   "src/components/WorkMap.jsx": {
-    "file": "assets/WorkMap-C5FxZaR3.js",
+    "file": "assets/WorkMap-CgguK70V.js",
     "name": "WorkMap",
     "src": "src/components/WorkMap.jsx",
     "isDynamicEntry": true,
@@ -75,37 +84,37 @@
     ]
   },
   "src/pages/AboutPage.jsx": {
-    "file": "assets/AboutPage-BIGledpM.js",
+    "file": "assets/AboutPage-Bu2CIMT8.js",
     "name": "AboutPage",
     "src": "src/pages/AboutPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-CCFxKg9d.js"
+      "_PageHeader-CBZ5ceBS.js"
     ]
   },
   "src/pages/AiChatPage.jsx": {
-    "file": "assets/AiChatPage-YjrVBJS0.js",
+    "file": "assets/AiChatPage-CXFqMrkm.js",
     "name": "AiChatPage",
     "src": "src/pages/AiChatPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-CCFxKg9d.js"
+      "_PageHeader-CBZ5ceBS.js"
     ]
   },
   "src/pages/ArchivePage.jsx": {
-    "file": "assets/ArchivePage-D1MDmxwQ.js",
+    "file": "assets/ArchivePage-BlfMLK7A.js",
     "name": "ArchivePage",
     "src": "src/pages/ArchivePage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-CCFxKg9d.js"
+      "_PageHeader-CBZ5ceBS.js"
     ]
   },
   "src/pages/BlogPage.jsx": {
-    "file": "assets/BlogPage-HVraiANj.js",
+    "file": "assets/BlogPage-BVWsCun8.js",
     "name": "BlogPage",
     "src": "src/pages/BlogPage.jsx",
     "isDynamicEntry": true,
@@ -113,96 +122,112 @@
       "index.html",
       "_blog-posts-oBepC8t8.js",
       "_wiki-search-CQSZVYQ6.js",
-      "_PageHeader-CCFxKg9d.js"
+      "_PageHeader-CBZ5ceBS.js"
     ]
   },
   "src/pages/BlogPost.jsx": {
-    "file": "assets/BlogPost-a95mAGjO.js",
+    "file": "assets/BlogPost-DCfqjde4.js",
     "name": "BlogPost",
     "src": "src/pages/BlogPost.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_blog-posts-oBepC8t8.js",
-      "_PageHeader-CCFxKg9d.js",
-      "_Comments-C61K2SHe.js"
+      "_PageHeader-CBZ5ceBS.js",
+      "_Comments-D5vKcKXu.js"
     ]
   },
   "src/pages/ContactPage.jsx": {
-    "file": "assets/ContactPage-CorqN1JO.js",
+    "file": "assets/ContactPage-Bka_0XAp.js",
     "name": "ContactPage",
     "src": "src/pages/ContactPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-CCFxKg9d.js"
+      "_PageHeader-CBZ5ceBS.js"
     ]
   },
   "src/pages/NotFoundPage.jsx": {
-    "file": "assets/NotFoundPage-Ck7Uu0ss.js",
+    "file": "assets/NotFoundPage-C4Vgch_X.js",
     "name": "NotFoundPage",
     "src": "src/pages/NotFoundPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-CCFxKg9d.js"
+      "_PageHeader-CBZ5ceBS.js"
     ]
   },
   "src/pages/PsycheDetailPage.jsx": {
-    "file": "assets/PsycheDetailPage-DxoXaF2x.js",
+    "file": "assets/PsycheDetailPage-DlXyJxx3.js",
     "name": "PsycheDetailPage",
     "src": "src/pages/PsycheDetailPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-CCFxKg9d.js"
+      "_PageHeader-CBZ5ceBS.js"
     ]
   },
   "src/pages/RssPage.jsx": {
-    "file": "assets/RssPage-CWlc-9BC.js",
+    "file": "assets/RssPage-wtb95OwA.js",
     "name": "RssPage",
     "src": "src/pages/RssPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_rss-items-AodRIDA9.js",
-      "_PageHeader-CCFxKg9d.js"
+      "_rss-items-DPKTXSwv.js",
+      "_PageHeader-CBZ5ceBS.js"
     ]
   },
   "src/pages/StatusPage.jsx": {
-    "file": "assets/StatusPage-CBwX_teI.js",
+    "file": "assets/StatusPage-CxYe3HGR.js",
     "name": "StatusPage",
     "src": "src/pages/StatusPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-CCFxKg9d.js",
-      "_rss-items-AodRIDA9.js"
+      "_PageHeader-CBZ5ceBS.js",
+      "_rss-items-DPKTXSwv.js"
     ]
   },
   "src/pages/WorkDetail.jsx": {
-    "file": "assets/WorkDetail-BcTfTgNw.js",
+    "file": "assets/WorkDetail-CbTcWqM-.js",
     "name": "WorkDetail",
     "src": "src/pages/WorkDetail.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_wiki-search-CQSZVYQ6.js",
-      "_PageHeader-CCFxKg9d.js",
-      "_Comments-C61K2SHe.js"
+      "_PageHeader-CBZ5ceBS.js",
+      "_Comments-D5vKcKXu.js"
     ],
     "dynamicImports": [
       "src/components/WorkMap.jsx"
     ]
   },
   "src/pages/WorkPage.jsx": {
-    "file": "assets/WorkPage-CeMbVo3F.js",
+    "file": "assets/WorkPage-CDWyOnzd.js",
     "name": "WorkPage",
     "src": "src/pages/WorkPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-CCFxKg9d.js"
+      "_PageHeader-CBZ5ceBS.js"
+    ]
+  },
+  "src/utils/music-player.js": {
+    "file": "assets/music-player-C7cRu4Ig.js",
+    "name": "music-player",
+    "src": "src/utils/music-player.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/music-player-BHjxXU0d.css"
+    ],
+    "assets": [
+      "assets/Canon in D (Pachelbel s Canon) - Cello Piano BEST WEDDING VERSION-CizaVg-k.mp3",
+      "assets/【送别】- Dreaming of Home and Mother （English Version) _vdm7845EW8M_-BYceS1Yx.mp3"
     ]
   }
 }

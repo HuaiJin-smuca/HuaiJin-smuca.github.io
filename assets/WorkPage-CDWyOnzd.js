@@ -1,0 +1,1 @@
+import{j as e,D as t,W as r}from"./index-DGxgWiKN.js";import{P as s}from"./PageHeader-CBZ5ceBS.js";function o(){return e.jsxs(e.Fragment,{children:[e.jsx(s,{title:t.works.title,subtitle:t.works.subtitle}),e.jsx("div",{className:"container container--wide sub-page",children:e.jsx(r,{full:!0})})]})}export{o as default};
