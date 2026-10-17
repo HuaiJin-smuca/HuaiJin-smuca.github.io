@@ -1,0 +1,1 @@
+import{j as t,D as e,C as a}from"./index-CA9crBBb.js";import{P as n}from"./PageHeader-CJ5hrtZy.js";function o(){return t.jsxs(t.Fragment,{children:[t.jsx(n,{title:e.contact.title,subtitle:e.contact.subtitle}),t.jsx("div",{className:"container container--wide sub-page edition-contact",children:t.jsx(a,{full:!0})})]})}export{o as default};
