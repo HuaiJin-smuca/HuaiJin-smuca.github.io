@@ -41,4 +41,4 @@ const n=[{slug:"being-and-time-notes",title:"时间与存在",date:"2026-9-20",t
 <h2>最小的诚实</h2>
 <p>写作要求一种最小的诚实：你不必说出全部的真话，但你不能说假话。每一行字都应该是对自己的一次确认——确认你在此刻、此地，确实感受到了什么。</p>
 <p>这种确认不需要伟大，只需要真实。尤其是在计算与谋制继续显化的时代，我们或许终将遗忘的：</p>
-<blockquote><p>于无可言说处突然道出，于欲语还休时缄默的<strong>沉思</strong>。</p></blockquote>`}];export{n as b};
+<blockquote><p>于无可言说处突然道出，于欲语还休时缄默的<strong>沉思</strong>。</p></blockquote>`},{slug:"南无阿弥陀佛",title:"南无阿弥陀佛",date:"2024",tag:"文社科",summary:"南无阿弥陀佛",readingTime:1,content:"<blockquote><p>南无阿弥陀佛</p><p>南无阿弥陀佛</p></blockquote>"}];export{n as b};
