@@ -1,5 +1,5 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/WorkMap-VJFJyM13.js","assets/index-CJO87q1Y.js","assets/index-KNawfE0j.css"])))=>i.map(i=>d[i]);
-import{b,d as u,j as p,T as d,L as a,u as k,M as x,e as q,r as h,G as j,f as l,_ as v}from"./index-CJO87q1Y.js";import{s as y}from"./wiki-search-CQSZVYQ6.js";import{P as m}from"./PageHeader-CZwJAuWB.js";import{C as N}from"./Comments-DPZMTDlu.js";const i=[{slug:"梦之影",title:"梦之影",date:"2026-03-29",tag:"散文诗",tags:[],summary:"正午的日光被灰色所遮蔽，梦中的倒影在湖面散去。所有的存在，都仅仅是为了被遗忘，被等待，消散在回环的光中。",cover:1,content:`<h2>（1）</h2>
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/WorkMap-C_OsrEuP.js","assets/index-DBoiyVZ0.js","assets/index-KNawfE0j.css"])))=>i.map(i=>d[i]);
+import{b,d as u,j as p,T as d,L as a,u as k,M as x,e as q,r as h,G as j,f as l,_ as v}from"./index-DBoiyVZ0.js";import{s as y}from"./wiki-search-CQSZVYQ6.js";import{P as m}from"./PageHeader-Dx-lCVz4.js";import{C as N}from"./Comments-DpaPhaTh.js";const i=[{slug:"梦之影",title:"梦之影",date:"2026-03-29",tag:"散文诗",tags:[],summary:"正午的日光被灰色所遮蔽，梦中的倒影在湖面散去。所有的存在，都仅仅是为了被遗忘，被等待，消散在回环的光中。",cover:1,content:`<h2>（1）</h2>
 <p>枯粉而白色的花瓣，又随着风轻轻飘落了。水面荡漾着的生命，静静漂流在广阔的湖水中。长堤下的行人低着头，无数种相同的情绪混合于陌生的，擦肩而过的面孔。我想停在风最轻柔的地方，让湖面上的游船，在所有风景的倒影下游走。<br>这个世界过于空虚而忙碌，占据了我所能触及的时空。死亡般的生存裹挟着每个苍白的梦，即使在无数的春光下，也不再能拾起曾经的从容。熟悉的语言从我面前飘过，灰蓝色的天空，往往蒙着无从道说的朦胧。风的微冷与其病痛，驱使着我停留在熟悉的网格中，然而我依旧尝试出走，依旧希望离开这贯穿一生的流颂。<br>这甚至不能说得上徒劳，以为所徒劳的期望本身，就已经淹没在眼前的湖中。对岸林立的高楼成了风景最珍贵的一部分，而最为灿烂的花丛，同样由无名的人所栽种。曾经的湖畔融化在无声的涟漪下，我的曾经无可失去，便在此刻同梦之门挣扎着重合————我何时栽种过自己的花朵，又何能真正等到祂开放，凋落？是否所有人生只在有限虚无的符号中游走，是否它们的花园，会拥有更坦然的画眸？<br>正午的日光又被灰色所遮蔽了，眼前走过熟悉的影子，使我分不清时光，更迷茫未来的空旷。镜子般的湖水在天空下一无所有，也唯独让人羡慕，如其无所承载着漂浮，如其寂寞似永恒的光雾。</p>
 <h2>（2）</h2>
 <p>世界终究无从离开寂静，终有一死者的魂灵，在每个瞬间都洒落自身轻盈的尸体。黑夜最深沉的梦，回归于春日午后的清风之中：曾经的花园依旧热闹着，只是背后的生命早已出走。没有人记得花朵具体的存在，只将一切理所当然地，裹挟进时间，裹入所带来的春秋。没有花朵记得一切走过的人流，只因祂们忘却了日光，忘却了雨水，<br>我听见无数被压抑的纯粹，仿佛自己所有的怀念，残生与悔愧。未来的衰退与变异恐吓着心灵，却恰恰使我扭曲，让现在的我也断绝于过去：没有生命愿意将自身分裂，除非脆弱到必须要一种幻想，一种崇高者的缅怀或怜悯……我只是其中较愚蠢的一位，将天空当作湖面的镜子，照出永远不是自己的自己。<br>春日的光太过奢侈地挥霍了，众人的阴天依旧未过去，只剩下旧梦落寞着闭合。时光的杂乱吹散了众灵魂所聚集的寥落，那所有虚幻的故事，在一切相信的阴影下寂寞。陌生的舞台凝聚出熟悉的面孔，他们的言语演绎出符号的舞曲，如此循环反复，如此将来世的谎言抛出。<br>“人，大地之墓的相弃者。”<br>“世界，在无光的清晨没落。”</p>
@@ -41,59 +41,43 @@ import{b,d as u,j as p,T as d,L as a,u as k,M as x,e as q,r as h,G as j,f as l,_
 <h2>1.13</h2>
 <p>时间的名字 → 如果我还有机会谈起，那么所有的雨，都将在那里凝结成黑色的迷语。一阵风，或一双陌生的眼睛，倘若它们不再打扰这被流逝的内心，只剩下的是缝隙，便从此延宕着，再也不会失去。</p>
 <p>过去的日子 → 将"永远"在未来等待回忆，那些最后的时代总是期盼着自身的某部分，同秋天的落叶，洒下春天飞扬的白雪。连续穿行的细网织不起一个人真正的"世界"——我们置身地是梦幻的，像柔丝中的群星，在黑暗的长途中，等待着归隐或苍老的命运。</p>
-<p>将来的所在 → 永远徘徊于"非存在者"的阴影里，如果不再失去那一面再失去的可能性，道路且十分陌生，便不会有那些熟悉的风景。黑色的朝阳在月亮的背后一同升起，</p>
-<p>伴着飞离的夜莺，将神秘的（　）掩蔽，一切好像虚无的爱恋，怀念与分离——何处能重寻回那种机会，那个生命？几乎不得不看见自己不在这里：绿荫与蓝天间，只留下无痕的词与枯枝。</p>
-<p>现在的镜子 → 假如我足有勇气去逃避，从而再建立起文字之间的道路与迷雾，围绕着不可能的星球，航行在自己的帆船之中——？世界究竟是平和的，死者或我竟睽映着无限已到来的我。白色的灯搭在三五方的远处，这一切滞留着，待到花朵最终凋落，一切的火山岩从她流尽它的河……</p>
+<p>将来的所在 → 永远徘徊于"非存在者"的阴影里，如果不再失去那一面再失去的可能性，道路且十分陌生，便不会有那些熟悉的风景。黑色的朝阳在月亮的背后一同升起，伴着飞离的夜莺，将神秘的（　）掩蔽，一切好像虚无的爱恋，怀念与分离——何处能重寻回那种机会，那个生命？几乎不得不看见自己不在这里：绿荫与蓝天间，只留下无痕的词与枯枝。</p>
+<p>现在的镜子 → 假如我足有勇气去逃避，从而再建立起文字之间的道路与迷雾，围绕着不可能的星球，航行在自己的帆船之中——？世界究竟是平和的，死者或我竟睽映着无限已到来的我。白色的灯搭在三五方的远处，这一切滞留着，待到花朵最终凋落，一切的灿烂，由融漠的残火从此流尽它们的河……</p>
 <h2>1.18</h2>
-<p>我会为那即将死的迫近感而回头流入幽泣的追忆吗？我应该为了生命本身牺牲我的命运吗？这些问题早早就已填满了答案，成为我心中压抑着的，永远无法触及的黑色。我会因为未来而生活持续下去吗？我的"将来之将来"又如何面对绝望的死亡呢？这些疑惑泛滥在每一次心跳中，把世界带向一种沉默：有力无气的，空白而漫长的淡漠。</p>
-<p>今夜的月亮，从来朝昨夜与明夜的光度过，两个方向的吸引看似碎然分离，但在渐渐模糊的双眼里，总是重合在一起，成为与二者不同的东西——山间的与林泽的土底，总是有更深处的声音，呼唤着白色的清澈与飞虫，把尘世的浮动着，唤回存在本有的寂静平静。</p>
-<p>白色与无色的灯火，随着我的脚步，在尚未成为路的路上略过。又是一个类似的</p>
-<p>生命，在某刻衰减，从此延续至将来的如今。</p>
-<p>但，现在这里还剩下什么呢？我望向镜中的风景，那风景本身早早己贯穿于我，哪怕在梦中，也曾记着，矗立着。</p>
-<p>"那时他期待着未来会有唯一的孩子——一 做为最后的雨夜来澄。"我知道自己并非那样拥有镜中的命运，从始至终，都未曾有目光投映而来的感动与期待。</p>
+<p>我会为那即将死的迫近感而回头流入幽泣的追忆吗？我应该为了生命本身牺牲我的命运吗？这些问题早早就已填满了答案，成为我心中压抑着的，永远无法触及的黑色。我会因为未来而生活持续下去吗？我的"将来之将来"又如何面对绝然的否定呢？这些疑惑泛滥在每一次心跳中，把世界带向一种沉默：有力无气的，空空滞胀着的淡漠。</p>
+<p>今夜的月亮，从来朝昨夜与明夜的光度过，两个方向的吸引看似碎然分离，但在渐渐模糊的双眼里，总是重合在一起，成为与二者不同的东西——山间的与林泽的土底，总是有更深处的声音，呼唤着白色的清澈与飞虫，把尘世的浮动者，唤回存在本有的寂静。</p>
+<p>白色与无色的灯火，随着我的脚步，在尚未成为路的路上略过。又是一个类似的生命，在某刻衰减，从此延续，直至将来的流散如今。</p>
+<p>但，现在这里还剩下什么呢？我望向镜中的风景，那风景本身早早己贯穿于我，哪怕在梦中，也曾铭记着，矗立着。</p>
+<p>"那时他期待着未来会有唯一的孩子——一 做为最后的雨夜来临。"我知道自己并非那样拥有镜中的命运，从始至终，都未曾有目光投映而来那感动与期许。</p>
 <h2>1.19</h2>
-<p>我最早的，尚且清醒的记忆。就是关于"死"了，关于一个孩子的死亡之思。双眼投向的世界是家的黑暗，本该睡在床上的人，一步步地走向混沌的背面，一步步地开门，打开从来如此虚幻的深渊。"我会（　）吗？"……泪流狂奔的我第一次听到心中另一种声音的启示出现，那种脆弱在</p>
-<p>在者每一瞬间的错杂，那每一次差距最终极泛而来的黑岩——像以往无数次的噩梦一般，像一种摆脱不去的氛围，第一次萦绕在尚未成为主体的"我"的<strong>身</strong>边，同时第一次地，仿佛相通了最初的，从此将伴随终<strong>身</strong>的思念之河诞。</p>
-<p>是的，这样的思念，先于任何主客二分的存在者，属于一切现世的沉流，破碎的调性与一切海的柱干，黑暗的沉没，<strong>那是</strong></p>
-<p><strong>一场怎样的承袭，于青春与〈妄动〉出的意义</strong></p>
-<p>呢？就像是镜面破碎的一瞬间般，在旁竟中人失悯的双眼里，不再欲求去"看见"，从此绽发出无边的世界间的世界。那里的思念永远蕴藏着我们，仿佛在星球的最深处，留下了同渺茫争相涌的，虚无的沼泽或空空的沉流。"我虽多着什么？"这是一个过分执着的欲求了。"思念的我来于何处？"这更是一种永恒的，</p>
-<p>将不到回答的夜间，是空空无声的闪火。</p>
-<p>无论怎样，我既终形成了一种最弱的悲伤：从我的血液模糊的躯体，孩童的朦胧的呓语中温顺地解放。就像在呼唤着一种虚无的成长，我看到未来尚不成形状的形，在类似月光的灯下，松软地愈来愈大，愈来愈长……</p>
-<p>我并没有哭泣下去，只是抽泣着闭上眼，依旧如平常般放下类似的执念，平和的进入"暂死"的，神秘的既无居有三细。</p>
-<p>可是那一番深刻的经历，却已自身闭合了自身的彼此，像所有逝去者的回忆般，成为闭合的时空，存在之外，在回中无所回头的命运。</p>
-<p>我会羡慕那永远困在那时下的我吗？人不过是过去一切自体之尸骸的集合，我会哀怜那永远穷极触碰"将死"的我吗？真正的未来永远不会到来。</p>
+<p>我最早的，尚且清醒的记忆。就是关于"死"了，关于一个孩子的死亡之思。双眼投向的世界是家的黑暗，本该睡在床上的人，一步步地走向混沌的背面，一步步地打开门，打开从来如此虚幻的深渊。"我会（　）吗？"……泪流狂奔的我第一次听到心中另一种声音的启示出现，那种铭刻在存在者每一瞬间的错裂，那每一次差距最终积淀而来的黑岩——像以往无数次的梦一般，像一种摆脱不去的氛围，第一次萦绕在，尚未成为主体的——<strong>"我"的身</strong>边，同时第一次地，偶然相遇见了最初的，从此将付诸终生的思念之河沿。</p>
+<p>是的，这样的思恋，先于任何主客二分的存在者，也出离于一切现世的沉流，破碎的涛涌与一切海的枯干，船的沉没，<strong>那是</strong>一场怎样的哀愁，宁静与意义的交融呢？就像是镜面破碎的一瞬间般，在旁竟中人失悯的双眼里，不再欲求去"看见"，从此绽发出无边的世界间的世界。那里的思念永远蕴藏着我们，仿佛在星球的最深处，留下了同渺茫争相涌的，虚无的沼泽或空空的沉流。"我思念着什么？"这是一个过分执着的欲求了。"思念的我来于何处？"这更是一种永恒的，将得不到回答的夜间，是星星无声的闪烁。</p>
+<p>无论怎样，我最终形成了一种最初的悲伤：从我的血液模糊的躯体，孩童的朦胧的呓语中温顺地解放。就像在呼唤着一种虚无的成长，我看到未来尚不成形状的形，在类似月光的灯光下，松软地拉扯，愈来愈大，愈来愈长……</p>
+<p>我并没有哭泣下去，只是抽泣着闭上眼，依旧如平常般放下类似的执念，平和的进入"暂死"的，神秘的无有居有之乡间。</p>
+<p>可是那一番深刻的经历，却已自身闭合了自身的彼此，像所有逝去者留下的回忆般，成为闭合的时空，存在之外，在回中无所回头的命运之轮。</p>
+<p><strong>我会羡慕那永远困在那时下的我吗？人不过是故去一切自体之尸骸的集合，我会哀怜那永远穷极触碰"将死"的我吗？真正的未来永远不会到来。唯一值得去慰藉的，便只有凹陷出世界的织线，互相牵连的繁子之网络。</strong></p>
+<p><strong>而最深的过去，往往已是真正未来的倒影。——人在初生的那一刻，便已经死去；而死去的我，永远不会回到在世之我的任何一刻……</strong></p>
 <h2>1.23</h2>
-<p>唯一值得去慰藉的，便只有凹陷出世界的织线，互相牵连的繁子之网。</p>
-<p>而最深的过去，往往已是真正未来的倒影。<strong>人在初生的那一刻，便已经死去；而死去的我，永远不会回到在世之我的任何一刻……</strong></p>
-<p>重复而无气息的日子，不知为何地漫长前进，我会希望的所有美好都已经过去，成为凝固的、原始的雨落，继而人生之弥留，亦是雨的弥留。天空之外的人们，怜悯地望着他自己下坠的影子，沉默而无声。</p>
-<p>过去的太多大地，也大者平坦的淹没在时间的海里，或许意识的潮汐方能使礁石重见天日，但经过洗刷的岩石，毕竟逐渐粉碎。直到碎屑随浪而去，曾经的伟岸，从此不再有踪迹。银色的月光与之暗自浮游，共同弥留在梦幻的泡沫，最后的虚粒，生命总是如此，漫步于微渺粒尘般</p>
-<p>沙漠里，摇晃的步伐带出流离世界的长路——但"我"被思念，只是名之下的配时，它前方的星空，是星群的翻覆，名之上的命运。潮汐不会拖没行的脚踝，却终归将沫击留在沙上的足迹，月升与月落总是使人望向远方，在视线尽头的渺茫下，矗立的岛屿，启示着真正的绝望。</p>
-<p>我的第一次绝望，又是否就在那意识到将死之死的一夜里，闭合了它永恒的起始，使每一次别离，都朝着另一起点归去，久远的回声再不能唤起更多情境与情绪，我只知道：歌声是隐藏着镜与梦的呓语。</p>
-<p>鸟会啊，大概它找不到自己的<strong>如何</strong>处，一如落笔的我不知真实之人的所往。这个莫大延续的世界，也只将在无形的尽头，返回到平静的故乡。无数的语言与无数双眼，都聚坐于，萦绕于心中同一个空白的星点。无数被填满与空耗的故去，</p>
+<p>重复而无气息的日子，不知为何地漫长前进，单纯的我会希望的所有美好都已经过去，成为凝固的、从此存在的雨落，然而人生之矛盾，亦是雨的弥留。天空之外的人们，怜悯地望着他自己下坠的影子，沉默而无声。</p>
+<p>过去的太多大地，也大都因为平坦淹没在时间的海里，或许意识的潮汐方能使礁石重见天日，但经过洗刷的岩石，毕竟逐渐粉碎。直到碎屑随浪而去，曾经的伟岸，从此不再有踪迹。银色的月光与之一同暗自浮游，共同弥留在梦幻的泡沫，最后的虚粒，生命总是如此，漫步于微渺粒尘堆积的沙滩，摇晃的步伐带出流离世界的长路——但"我"不仅仅是生命，更是祂之下的时节，祂前方的虚空，祂星群的翻覆，祂之上的命运。潮汐不会拖没行的脚踝，却终归将沫击留在沙上的足迹，月升与月落总是使人望向远方，在视线尽头的渺茫下，矗立的岛屿，启示着真正的 希冀——绝望。</p>
+<p>我的第一次绝望，又是否就在那意识到将死之死的一夜里，闭合了它永恒的起始，使每一次别离，都朝着另一起点归去？久远的回声再不能唤起更多情境与情绪，我只知道：歌声是隐藏着镜与门，回荡着梦的呓语。</p>
+<p>思念啊，大概它找不到自己归<strong>如何</strong>处，一如落笔的我不知真实之人的所往。这个莫大的，茫目延续的世界，也只将在无形的尽头，返回到平静的故乡。无数的语言与无数双眼，都聚坐于，萦绕于心中同一个空白的星点。无数被填满与空耗的故去，纵使太像大海的深蓝，却依旧有痕迹，依旧承载着自未来而来的平抑。</p>
 <h2>2.9</h2>
-<p>纵使太像大海的深蓝，却依旧有痕迹，依旧承载着自未来而来的平淡。</p>
-<p>漫长的虚无，同样是刹那回忆中所压抑的荒芜：像嘈杂的人群中，由喧闹所横饰的纯粹的空缺与沉默——不知从何开始，我发现自己已被抛入永恒的景深中。</p>
-<p>曾经的深渊在哪里？太阳背影中的蓝色，像每一束将死的光明。永远的大地是否真实？微风拂过后的飘零，不再有落叶的样子，而像若有若无的星晕般无依。"只有在空中，才会有永恒……"疯狂的呓语如此牵引着我，正如陌生的孩子面对世界唯一的碎屑，幻想起自己的成长，漂泊与老去……那所有的图景，都越过了最纯洁的尘歌。</p>
-<p>人不再成为他自己的样子，而是变得遥远，<strong>如此</strong>将其正的陌生都归于海底。</p>
-<p>我应该把这之后的日子理解为一种残缺吗？就像一个真正在心中的故事，一旦落于笔尖，就</p>
-<p>失去所怀的美好，变为赤裸而苍白的，艰难编织与解开的线索。那一晚的我并不知道：就在面对过第一面的死的影子后，"梦"与"生"从那来到世界，并将一直伴随着，在我的生命降伴地更久<strong>如</strong>长久。</p>
-<p>是的，第一面的出现注定预示着永远——从此再也没有纯粹的生活，因为人生的另一面已先嵌入眼帘。即将长出大地的种子，在见到阳光的那时，才真正死过黑色的根与死。也正是在那个晚上，我真正地看见太阳。<strong>至于此名千万日夜的往复，也都只是那晚角的泪水所包裹的梦境。</strong></p>
-<p>但人终究不堪直视自己深处的灰烬，哪怕最烈火的大火台，也注定脱不去颓败与毁灭的痕迹。正是由泪水所象征与承载的梦境，同暮为我带来最初的烛火，开始燃烧自己——此后我会珍视但因灰烬中闪烁的宝石，但并非因其</p>
-<p>本身，而是它们代表了我的尸体——始终有无数的我，透过这层cui弱的凝望彼此，却始终终不能相遇。而当视线就此失去某主体时，真正剩下的，便只是缥缈的空气。我的气息散逸在这样的梦里，尽管离时间很远，却始终离世界很近。</p>
-<p>——我又想到第一次"共时性"的发生，大概无也源自某个在先的我，于最深的镜中，失望望自己所属的自己。</p>
-<p>所以时间是可惜的吗？我明白任何一个"在时"的我，都无法问出这样的问题。只剩下唯一重叠的可能，像午夜中的呓语，弱向月光的银白，洒入深洲的鱼脸。</p>
-<p>［人生就像来不及写完的文字，于每一处繁复所有生动、美好的作品——然后最后的结果又是什么！大多只<strong>只是</strong>写了比世界更空虚的自己。］</p>
-<p>自己的雪下在每个没有生机的夜，像所有未来的缩局，应未来临的怀念——<strong>都低微一顶</strong></p>
+<p>漫长的虚无，同样是刹那回忆中所压抑的荒芜：像嘈杂的人群中，由喧闹所横饰的纯粹的空缺与沉默——不知从何开始，我发现自己已被悬浮，已被抛入永恒的景深中。</p>
+<p>曾经的深渊在哪里？太阳背影中的蓝灰色，像每一束将死的光明。永远的大地是否真实？微风拂过后的飘零，不再有落叶的样子，而像若有若无的星晕般无依。<strong>"只有在空中，才会有永恒……"</strong>疯狂的呓语如此牵引着我，正如陌生的孩子面对世界唯一的碎屑，幻想起自己的成长，漂泊与老去……那所有的图景，都越过了最纯洁的尘歌生死。人不再成为他自己的样子，而是变得遥远熟悉，从此将真正的陌生，都归于世界的心底。</p>
+<p>我应该把这之后的日子理解为一种残缺吗？就像一个真正在心中的故事，一旦落于笔尖，就失去所怀的美好，变为赤裸而苍白的，艰难编织与解开的线条。那一晚的我并不知道：就在面对过第一面的死的影子后，"梦"与"故事"从此来到世界，并将一直伴随着，比我的生命陪伴的更加长久</p>
+<p>是的，第一面的出现注定预示着永远——从此再也没有纯粹的生活，因为人生的另一面已先开嵌入眼帘。即将长出大地的种子，在见到阳光的那时，才真正死能回望黑色的根与死。也正是在那个晚上，我真正地看见太阳。<strong>至于此后千万日夜的往复，也都只是那瞬间的泪水所包裹的残茫。</strong></p>
+<p>但人终究不堪直视自己深处的灰烬，哪怕最灿烂的火焰，也注定脱不去颓败与毁灭的痕迹。正是由流水所象征与承载的梦境，同暮为我带来最初的烛火，开始燃烧自己——此后我会珍视但因灰烬中闪烁的宝石，但并非因其本身，而是它们代表了我的尸体————始终有无数的我，透过这层璀璨凝望彼此，却始终终不能相遇。而当视线就此失去某主体时，真正剩下的，便只是缥缈的空气。我的气息散逸在这样的梦里，尽管离时间很远，却始终离世界很近。</p>
+<p>——我又想到第一次"共时性"的发生，大概无也源自某个在先的我，于最深的镜中，失望凝望自己所望的自己。</p>
+<p>所以时间，是可憎/可惜的吗？我明白任何一个"在时"的我，都无法问出这样的问题。只剩下唯一重叠的可能，像午夜中的呓语，照向月光的银白，洒入深渊的虚影。<br><strong>［人生就像来不及写完的文字，于每一处紧逼所有将要完成的，生动、美好的作品——然后最后的结果又是什么？大多只写出了比世界更空虚的自己。］</strong></p>
+<p>白色的雪又来了，下在每个没有生机的夜，像所有未来的缩欺骗，应未来临的怀念——都化成了一切将来的怀恋......<br>固然只有在前方，"时间"才能附着我的身躯，让一切无花的花开放；看一切沉重的生命飞翔。<strong>真正的轻盈从来只是对大地的怜悯</strong>；而作为行路者的我，从来不应忘记：还有一个更完全的我，在日月的交替中掩藏了之流，不曾作为存在，又如何为命运的轨迹。</p>
 <h2>2.13</h2>
-<p>逃离只在将来，"时间"才能附着我的身躯，让一切无花的花开放；看一切沉重的人飞翔。真正的轻逸从来只是对大地的怜悯；而作为行路者的我，从来不应忘记：还有一个更完全的我，在日月的交替中掩藏了的勃之流。</p>
-<p>"不管作为存在的命运"</p>
-<p>象无数双眼于暗中注视，而路愈是前散与漫长的，直到现在的我才恍惚猜测：那并非无据或重构的幻梦，而是无数时空下回忆式的、来自将来的"同我的注视"。在呼喊之前，"最后之神"与主体们的交集已经重现于出现。鲁德格尔的死亡深林正如那时的梦中模糊的背景，使我不已在行走，更将浮现于面前。</p>
-<p>一切黑色的梦都是这样吗？：起始于"浮现"与"坠于无"的辩证。我的意识越是清明与感动，那背后真正的场景，便越是遗忘于世界之初，在醒来的一刻，重新汇入世界之外的"实无"。之后的我所梦见的东西，但大都应对现实理想化与臆症化的构造，或是纯粹触力与焦虑所融合成的迷彩。</p>
-<p>真正起始的那一瞬如此赤裸裸地踢除，［而我的双眼所求的，也由纯粹而被动的不安，转向日月中的、欲望式的符号与盘踞。］</p>
-<p>但死亡作为变化，从不想给人以存在来道说的。没有人明白自己从何而来，可所有人都能想到为时间的营造的落善辩巨。作为一种真切的气氛，它包裹着所有形式与实在，又溢出一切"尚未"与"忘却"。就像我在那个梦中的结局：直到尽头，恰恰看见了静立着的自己，心中泛出难以诉说的寂静。脱去灵魂的身体，将要开口时离去。</p>
-<p>我一直妄想着将真实的这里当做梦中所现的那番样子，傲慢地逃避一切真正被还原的：所有的情形都已出现的实质。所有色彩中的形影都重叠于隐秘的遇见，相遇与再遇——我不会以镜中的我命名自己，因为真正难言的臆想，已深深地上移别于己。</p>
+<p>渺茫的回忆又将我带回那若有若无的，作为孩子而怕黑的自己。<strong>真正的黑暗并非眼前的无光，而是在微弱的月光之下，凝望始终徘徊不离的，黏附于自身又不止于此的影子</strong>。为什么会怕黑呢？这样的恐惧又何尝不是原初意欲的投影？......但这些话语，只能留到很久以后再说起。我依旧只是想换回，那些最后留下的回音。<br>一个从不真实的梦告诉我：自己的样子，恰恰是于纯粹的黑影中溢出的，终至透亮而澄明的镜子。那时自我怀着恐惧，想象无数双眼于暗中注视，而路愈是煎熬与漫长的，直到现在的我才恍惚猜测：那并非无据或重构的幻梦，而是无数时空下回忆式的、<strong>来自将来的"同我的注视"</strong>。在呼喊之前，"最后之神"与主体们的交集已经重现于出现。海德格尔的那片深林正如那时的梦中模糊的背景，使我不止已在行走，更将浮现于面前的（？）。</p>
+<p>一切黑色的梦都是这样吗？：起始于"浮现"与"坠于无"的辩证。我的意识越是清明与感动，那背景后真正的场景，便越是遗忘于世界之初，在醒来的一刻，重新汇流入世界之外的<em>*"实无"</em>。之后的我所梦见的东西更多，但大都应对现实理想化与臆症化的构境，或是纯粹驱力与焦虑所融合成的迷影。真正起始的混沌如此泰然任之地退隐，［而我的双眼所求的，也由纯粹而被动的不安，转向日月中心的、欲望式的符号与盘踞。］</p>
+<p>但变化作为变化，从不是给人以存在来道说的。没有人明白自己生从何来，可所有人都能想到为时间的营造的落差辩白。作为一种真切的气氛，它包裹着所有形式与实在，又溢出一切"尚未"与"忘却"。<strong>就像我在那个梦中的结局：直到尽头，恰恰看见了静立着的自己，心中泛出难以诉说的寂静。脱去灵魂的身体，于将要开口时离去。</strong></p>
+<p>我一直妄想着将真实的这里当做梦中所现的那番样子，故借此逃避一切真正被还原的：所有的情形都已出现的实质。所有色彩中的形影都重叠于隐秘的遇见，相遇与再遇——我不会以镜中的我命名自己，因为真正难忘的臆想，已深深地上移刻于己心。</p>
 <h2>2.14</h2>
-<p>惟有当恐惧是茫然的，恐惧者才摆脱他在者的暴力……那时的我并不会知道星空背后的群星墓地，只是单单地走着，向着哪里？大概是回家去。"太晚了"的回音伴随单纯的</p>
+<p>惟有当恐惧是茫然的，恐惧者才摆脱存在者的暴力……那时的我并不会知道星空背后的群星墓地，只是单单地走着，向着哪里？大概是回家去。"太晚了"的回音伴随单纯的</p>
 <p>无意象意态，始终固守于自己贯穿时空的渊源。他听到钟声带离了一切珍贵与神秘，却依旧守在山崖下的洞穴，宛如被诸神所约束的身形。洞中的黑不同于整个世界的黑：它太过封闭，也太过相对地绝对。</p>
 <p>难道这不就是火焰存在的意义吗？——它撕扯一切辩证性的黑暗，令绝对者背离于阴暗处，直到足够照亮更广阔的天地，就逐渐形成了家，故乡，空间……最后到最初的"我（们）自己"。徜徉夜晚的我始终渴望家中的光明，却也在刻印着的想象中，发现光明始终映照于自身之中里。是跳动的心，还是寂静的星星？如今梦想中的我将在那时的每一刻都做出截然相反的选择。从而流落无依。</p>
 <p>又或许——难道我真的未曾<strong>选择</strong>吗？另条道路恰恰来自时间的倒流：当我奔向由绝对者所回溯的未来，就在那相遇的瞬间，</p>
@@ -275,9 +259,9 @@ import{b,d as u,j as p,T as d,L as a,u as k,M as x,e as q,r as h,G as j,f as l,_
 <p>未睡而梦的我，于迷蒙之间看见启示般的轮廓：</p>
 <p>"《隙间》的每个人者都会有另一个分身：（<br>自己的影子和它的最后之神……"事实上，倒流的生命无法望见永告的"已逝"，一个人终将发现：自己的时间自发飞流而去，直至生命的生命，将自己串身吞噬。</p>
 <h2>2026.2.27</h2>
-<p><strong>我想世界依旧在梦中游荡。</strong>像一次夕阳下多余的大焰，倾刻熄灭，又像手中雾气被封印的白色水晶。</p>
-<p>过去的时光只剩下黑影与黄昏的残丝，可未来的时日，永远像曾经那般令人不得不用然落失。我想自己在不觉间卸下了太多的潜在，终于重新拾起简单的笔画——尽管不知如何去描摹，但却放下了粗委的油墨。</p>
-<p>是啊，这世界的幻觉又能有多真切？入梦愈深之人，愈是不相信梦是梦的本真。</p>`,outgoingLinks:[],backlinks:[],isOrphan:!0},{slug:"prophet-garden",title:"雪，先知花园",date:"2025",tag:"小说",tags:[],summary:"三个冬夜，一场没有说完的告别。（未纳入AI知识库）",cover:5,content:`<h2>先知花园</h2>
+<p><strong>我想世界依旧在梦中游荡。</strong>像一次夕阳下多余的火焰，倾刻熄灭，又像手中雾气被封印的白色水晶，映刻离别的流念。</p>
+<p>过去的时光只剩下黑影与黄昏的残丝，可未来的时日，永远像曾经那般，令人不得地怅然落失。我想自己在不觉间卸下了太多的潜在，终于重新拾起简单的笔画——尽管不知如何去描摹，但至少放下了稠密的油墨。</p>
+<p>是啊，这世界的幻觉又能有多久？入梦愈深之人，愈是不相信梦是梦的本真。</p>`,outgoingLinks:[],backlinks:[],isOrphan:!0},{slug:"prophet-garden",title:"雪，先知花园",date:"2025",tag:"小说",tags:[],summary:"三个冬夜，一场没有说完的告别。（未纳入AI知识库）",cover:5,content:`<h2>先知花园</h2>
 <h2>一、初雪</h2>
 <p>园子空了很久，空到祂回来的时候，门环上已经结了一层锈，锈是暗红色的，像很久以前的一滴血，又像谁在那里按过一个指印，按了很久，按到最后连指印也变成了铁的一部分——祂就是在这个时候推开门的，门没有锁，锁早就坏了，坏在很多年以前，坏在祂走的那一天，那天祂没有回头，所以祂一直不知道门是开着还是关着，现在祂知道了，它一直开着，开着等祂回来，等得连门轴都锈住了，祂推的时候用了很大的力，门开的时候发出一声很长的响，响得像一个人在很深的地方叹了一口气，那口气出来以后没有散，停在门框上，停成一团很薄的雾，祂从雾里走过去，肩上就湿了一点；园子里的东西都比祂记得的大，树大了，草大了，连石阶上的青苔都大了，厚厚的一层，踩上去软软的，像踩在别人的舌头上，雾从石阶上浮起来，浮到膝盖那么高，人走在里面，像走在水里，脚是看不见的，只有声音还在，声音从雾里出来，走到祂面前，就散了。</p>
 <p>廊下那把椅子还在，椅子上的漆掉了一半，露出下面的木头，木头是灰的，灰得像被火烧过，可它没有烧过，它只是老了很多年，老到连灰都成了它的一部分，雾在椅子旁边绕了一下，绕过去，又绕回来，像一个人在那里站了一会儿，又走了——祂站在椅子前面，没有坐下去，因为祂知道，坐下去就会想起上一次坐在这里的时候，那时候园子里还有人，还有灯，还有一整个晚上可以说的话，而现在只剩下这把椅子，和祂，还有椅背上那一点没有散尽的雾。</p>
@@ -1571,7 +1555,7 @@ import{b,d as u,j as p,T as d,L as a,u as k,M as x,e as q,r as h,G as j,f as l,_
 <p>smuca</p>`,outgoingLinks:[],backlinks:[],isOrphan:!0},{slug:"bridge",title:"桥间",date:"2023.09",tag:"小说",tags:[],summary:"三部曲中的第一部，关于河流，桥梁与人间自我的悬置。生命摇曳在江面。",cover:6,content:`<h2>《桥间》</h2>
 <blockquote><p>手写零稿一册，六十一页。一稿起于 10.5，止于 10.19；二读亦始于 10.19。</p></blockquote>
 <p>&gt;</p>
-<blockquote><p>本书由扫描手稿逐页转录、按「连贯稿」体例整理：原稿的涂改、划掉的整行、页边批注与作者自注一律不录；模糊处按上下文补最短衔接，取能读通的那一版，不凑乱码，也不留存疑符号；作者写不出字而直接记下的拼音照录；空括号「（）」是作者有意留白，照录。</p></blockquote>
+<blockquote><p>本书由deepseek扫描手稿逐页转录、按「连贯稿」体例整理：原稿的涂改、划掉的整行、页边批注与作者自注一律不录；模糊处按上下文补最短衔接，取能读通的那一版，不凑乱码，也不留存疑符号；作者写不出字而直接记下的拼音照录；空括号「（）」是作者有意留白，照录。难免存在错漏/文字怪异之处。</p></blockquote>
 <p>&gt;</p>
 <blockquote><p>全书分「一稿」「二读」两卷。体例、线索校读与插入对位的说明见卷末附记。</p></blockquote>
 <p>---</p>
@@ -1618,9 +1602,9 @@ import{b,d as u,j as p,T as d,L as a,u as k,M as x,e as q,r as h,G as j,f as l,_
 <p>程木轻轻拍打着织上轻尘的布匹，飞扬的细灰，仿佛连某种肌理都断绝了，带着令人不适的生命；窗外的天色，则仍旧固执与明日相同。他的楼很少留下这样清晰的痕迹了。离开自己的房屋，才渐渐变得柔和，忽而模糊。光脚走上滑滑的瓷砖，冰凉刺骨的湿度很快窜过神经。成来的思绪，又复原成了熟悉的编织。是否已于口中隐没的部分，也在躲避着里面的什么泥？</p>
 <p>程木静静地看着栏杆外的那张脸。仿佛遥远梦中的声音，也像被车路上方的堆上吹散的旧回忆般，不知从何而来，却总有熟悉的感觉。</p>
 <p>干燥的白日让江风显得不再湿冷，自己的鞋底钻进了细小的东西，坚硬地硌在脚上，一种奇怪的触感，同样欠缺在他的手间。</p>
-<p>「wo wéi，两星两望呐。」</p>
+<p>「喂喂，醒醒呐。」</p>
 <p>他一边轻轻地喊着，一双赤脚摸上她裸露的脚背。过分的柔软，就像被雨水泡胀了许久般。下面的脚掌和趾头陷在软沙里，比起热拥，更接近一种累赘了。</p>
-<p>「两星两呐，两星两呐。」</p>
+<p>「醒醒啊。醒醒吧...」</p>
 <p>程木的手拍了拍她，她的皮肤只是被一点很小的力触上，却传来波浪滚滚的震动。</p>
 <p>他仿佛预见到了什么，站起身子，一只鞋踩上那道系得死紧的结，并没有松动，却抱得更紧了，他只好再蹲下去，装作打鞋带的样子。</p>
 <p>远远地传来嬉笑的声音，他不禁望向那身侧的身体，依旧没有动静，却不知自己会不会引来些注意。</p>
@@ -2284,10 +2268,10 @@ import{b,d as u,j as p,T as d,L as a,u as k,M as x,e as q,r as h,G as j,f as l,_
 <p>（以下为页末涂鸦）</p>
 <p>那时，我作了怎样的选择呢？</p>
 <p>---</p>`,outgoingLinks:[],backlinks:[],isOrphan:!0},{slug:"back-to-smuca",title:"经先知",date:"2022",tag:"散文诗",tags:[],summary:'两个幻影于月亮升起时别离，祂们望着彼此却无法开口，空虚的眸中倒映着最初的秘密……"（个人写作的起点，默写于2022年6月）',cover:8,content:`<p>1）</p>
-<p>他坐着28951年的飞船，离开那已居住480年的火星，到达另一个宇宙——先知宇宙中的先知系，中包含一个令人惊讶的星球，足比那已衰败的旧陆大上十倍。<br>当你经800多年时，仍如此年轻的力壮的<strong>smuca高兴地笑了</strong>：先知如星球内无时间控制。<br>“力竭矣！”程孝锋目光迷茫地望向远方，又伤心地哭了……<br>smuca奔下飞船，再奔向那渺小而又伟大的程孝锋：“程孝锋，你还记得我吗？”smuca望着程孝锋，程孝锋也望着他：“smuca，你，还记得我吗？……”<br>没有人回答这两个问题，只有热泪诠释了先知的魅力：天空下的泪雨五彩缤纷，撒在身上温暖而湿润——<br>“欢迎回家！”<br>如同炬火唤醒了寂冷的冻原，大地在二人脚下齐步盛开。</p>
+<p>他坐着28951年的飞船，离开那已居住480年的火星，到达另一个宇宙——先知宇宙中的先知系，中包含一个令人惊讶的星球，足比那已衰败的旧陆大上十倍。<br>当你经800多年时，仍如此年轻的力壮的<strong>smuca高兴地笑了</strong>：先地知星球内无时间控制。<br>“力竭矣！”程孝锋目光迷茫地望向远方，又伤心地哭了……<br>smuca奔下飞船，再奔向那渺小而又伟大的程孝锋：“程孝锋，你还记得我吗？”smuca望着程孝锋，程孝锋也望着他：“smuca，你，还记得我吗？……”<br>没有人回答这两个问题，只有热泪诠释了先知的魅力：天空下的泪雨五彩缤纷，撒在身上温暖而湿润——<br>“欢迎回家！”<br>如同炬火唤醒了寂冷的冻原，大地在二人脚下齐步盛开。</p>
 <p>2）</p>
 <p>那星现在看来都无比长久的淡漠——遥远的星球，另一个宇宙；一切还未曾真实地存在过——但，谁知？这个世界却拥有被所有事物、所有人所铭记的——smuca：它是一个世界开启，是一个世界关闭；是梦中真实的梦门，是热泪盈眶的生命——<br>“smuca……”<br>我望着他，他也望着我：<strong>他的眼球中瞳孔透射出一种独一无二的黄色（太阳的颜色），我的则是独一无二的黑色……</strong><br>我伸出双手，他也伸出双手——<strong>但我却不能与他接触；这中间隔着什么？我知道，但这是秘密，这或许是某种……某种友谊，纯真的友谊。</strong></p>
 <p>3）</p>
 <p>先知所洗去的一切，再也没有回来；动人的透达过后，迷茫随之而来——<br>程孝锋，smuca，我们依旧在那。互相用能够看见另一个世界的眼，注视着彼此的目光：<br>“我是谁？……”<br>“……我是谁？……”<br>二人再没有说话。</p>
 <p>4）</p>
-<p>多年后，他们抬头仰望：宇宙，地球，和其它五万颗星星……月亮也一同升起。<br>“……今夜，将似我来时。夜空明亮，我的月亮正在此处，在我降落地正上方……”<br>“然……何夜<strong>无月</strong>？”<br>“……可，何夜<strong>有月</strong>...？”<br>“smuca！”<br>“在无数岁月的交点，我既与你相识。感那时日虽短也长，而究竟是足够了——别了！相遇必有相别，我也将回到我的起点，寻找我的世界……”<br>smuca再望了望我，他什么也没有说。但那瞳孔恰似明镜，使我在隐约中终于看见另一个自我……<br>“别了。。。”<br>我转过头——又再次转回头。smuca不见了，但我依旧伫立在先知知的土地上；我知道，我就是他；而他，是<strong>smuca……</strong></p>`,outgoingLinks:[],backlinks:[{slug:"回到smuca(高三上笔记）",title:"回到smuca(高三上笔记)"}],isOrphan:!1}];function f(){return i.map(({content:t,...n})=>n)}function w(t){const n=decodeURIComponent(t),s=i.find(o=>o.slug===n);if(!s)return null;const{content:r,...e}=s;return{...e,body:r}}function L({work:t}){const{scene:n,sceneInfo:s}=b(),{ref:r,active:e}=u();return p.jsxs("header",{ref:r,"data-scenery-paused":!e,className:"mist-reading-header",children:[p.jsx(d,{scene:n},n),p.jsx("div",{className:"mist-halo","aria-hidden":"true"}),p.jsxs("div",{className:"container container--reading",children:[p.jsx(a,{to:"/work",className:"back-link",children:"← 返回作品列表"}),p.jsxs("p",{className:"mist-eyebrow",children:[s.name," ",p.jsx("span",{children:"／"})," 作品选读 ",p.jsx("span",{className:"mist-label-en",children:s.english.split(" / ")[0]})]}),p.jsxs("div",{className:"mist-work-title-wrap",children:[p.jsx("h1",{className:"serif page-title",children:t.title}),p.jsx("span",{className:"mist-work-reflection serif","aria-hidden":"true",children:t.title})]}),p.jsxs("p",{className:"mist-work-meta",children:[t.tag&&p.jsx("span",{className:"tag",children:t.tag})," ",p.jsx("time",{dateTime:t.date,children:t.date})]}),p.jsx("p",{className:"mist-work-summary serif",children:t.summary}),p.jsx("span",{className:"mist-header-notation","aria-hidden":"true",children:"湖面 · 倒影 · 微风"})]})]})}const A=h.lazy(()=>v(()=>import("./WorkMap-VJFJyM13.js"),__vite__mapDeps([0,1,2])));function _(){const{slug:t}=k(),n=w(t),s=(n==null?void 0:n.slug)===x&&q(n).motif==="water";return n?p.jsxs("div",{className:s?"mist-reading":`edition-reading edition-work${n.tag==="小说"?" edition-reading--novel":""}`,children:[s?p.jsx(L,{work:n}):p.jsx(m,{work:n,title:n.title||t,subtitle:p.jsxs(p.Fragment,{children:[n.tag&&p.jsx("span",{className:"tag",children:n.tag})," ",n.date]}),backTo:"/work",backLabel:"返回作品列表",variant:"reading"}),p.jsxs("div",{className:"container container--reading reading-shell",children:[s&&p.jsxs("div",{className:"mist-reading-label",children:[p.jsx("span",{children:"正文"}),p.jsx("span",{"aria-hidden":"true",children:"TEXT / 01"})]}),!s&&p.jsxs("div",{className:"edition-reading-preface",children:[p.jsx("span",{className:"edition-reading-kicker",children:"作品选读"}),n.summary&&p.jsx("p",{className:"serif",children:n.summary})]}),p.jsx("article",{className:"markdown-body",dangerouslySetInnerHTML:{__html:n.body||""}}),s&&p.jsxs("div",{className:"mist-reading-end","aria-hidden":"true",children:[p.jsx("span",{})," ◇ ",p.jsx("span",{})]}),!s&&p.jsx("div",{className:"edition-reading-end","aria-hidden":"true",children:"◇"}),p.jsx(N,{collection:"work",slug:n.slug}),n.backlinks&&n.backlinks.length>0&&p.jsxs("nav",{className:"work-backlinks",children:[p.jsx("div",{className:"work-backlinks-title",children:"被以下页面引用"}),p.jsx("div",{className:"work-backlinks-list",children:n.backlinks.map((r,e)=>p.jsx(a,{to:`/works/${r.slug}`,className:"post-nav-item",children:p.jsx("span",{className:"post-nav-title",children:r.title})},e))})]}),p.jsx("div",{className:"page-return",children:p.jsx(a,{to:"/work",className:"back-link",children:"← 返回作品列表"})})]})]}):p.jsxs("div",{className:"container container--reading page-empty",children:[p.jsx("h1",{className:"serif page-title",children:"作品未找到"}),p.jsx(a,{to:"/work",className:"back-link",children:"← 返回作品列表"})]})}function E(){const t=f(),[n,s]=h.useState(""),[r,e]=h.useState("gallery"),o=n?y(n,i):null;return p.jsxs(p.Fragment,{children:[p.jsx(m,{title:"作品",subtitle:"SELECTED WORKS"}),p.jsx("div",{className:"container container--wide sub-page edition-portfolio",children:p.jsxs("section",{children:[p.jsx("input",{className:"wiki-search-input","aria-label":"搜索作品",type:"text",placeholder:"搜索作品...（名称，类型，关键词）",value:n,onChange:g=>s(g.target.value)}),p.jsx(j,{count:o?o.length:t.length,view:r,onViewChange:e,withMap:!0}),r==="map"?p.jsx(h.Suspense,{fallback:p.jsx("p",{role:"status",children:"正在展开作品关系…"}),children:p.jsx(A,{works:i,visibleWorks:o??t})}):o?p.jsxs("div",{className:`work-grid edition-work-grid view--${r}`,children:[o.length===0&&p.jsx("p",{className:"empty-state",children:"未找到匹配的作品"}),o.map((g,c)=>p.jsx(l,{work:g,index:c,evidence:g.evidence},g.slug))]}):p.jsxs("div",{className:`work-grid edition-work-grid view--${r}`,children:[t.length===0&&p.jsx("p",{className:"empty-state",children:"暂无作品"}),t.map((g,c)=>p.jsx(l,{work:g,index:c},g.slug))]})]})})]})}export{E as WorkList,_ as default};
+<p>多年后，他们抬头仰望：宇宙，地球，和其它五万颗星星……月亮也一同升起。<br>“……今夜，将似我来时。夜空明亮，我的月亮正在此处，在我降落地正上方……”<br>“然……何夜<strong>无月</strong>？”<br>“……可，何夜<strong>有月</strong>...？”<br>“smuca！”<br>“在无数岁月的交点，我既与你相识。感那时日虽短也长，而究竟是足够了——别了！相遇必有相别，我也将回到我的起点，寻找我的世界……”<br>smuca再望了望我，他什么也没有说。但那瞳孔恰似明镜，使我在隐约中终于看见另一个自我……<br>“别了。。。”<br>我转过头——又再次转回头。smuca不见了，但我依旧伫立在先知知的土地上；我知道，我就是他；而他，是<strong>smuca……</strong></p>`,outgoingLinks:[],backlinks:[{slug:"回到smuca(高三上笔记）",title:"回到smuca(高三上笔记)"}],isOrphan:!1}];function f(){return i.map(({content:t,...n})=>n)}function w(t){const n=decodeURIComponent(t),s=i.find(o=>o.slug===n);if(!s)return null;const{content:r,...e}=s;return{...e,body:r}}function L({work:t}){const{scene:n,sceneInfo:s}=b(),{ref:r,active:e}=u();return p.jsxs("header",{ref:r,"data-scenery-paused":!e,className:"mist-reading-header",children:[p.jsx(d,{scene:n},n),p.jsx("div",{className:"mist-halo","aria-hidden":"true"}),p.jsxs("div",{className:"container container--reading",children:[p.jsx(a,{to:"/work",className:"back-link",children:"← 返回作品列表"}),p.jsxs("p",{className:"mist-eyebrow",children:[s.name," ",p.jsx("span",{children:"／"})," 作品选读 ",p.jsx("span",{className:"mist-label-en",children:s.english.split(" / ")[0]})]}),p.jsxs("div",{className:"mist-work-title-wrap",children:[p.jsx("h1",{className:"serif page-title",children:t.title}),p.jsx("span",{className:"mist-work-reflection serif","aria-hidden":"true",children:t.title})]}),p.jsxs("p",{className:"mist-work-meta",children:[t.tag&&p.jsx("span",{className:"tag",children:t.tag})," ",p.jsx("time",{dateTime:t.date,children:t.date})]}),p.jsx("p",{className:"mist-work-summary serif",children:t.summary}),p.jsx("span",{className:"mist-header-notation","aria-hidden":"true",children:"湖面 · 倒影 · 微风"})]})]})}const A=h.lazy(()=>v(()=>import("./WorkMap-C_OsrEuP.js"),__vite__mapDeps([0,1,2])));function _(){const{slug:t}=k(),n=w(t),s=(n==null?void 0:n.slug)===x&&q(n).motif==="water";return n?p.jsxs("div",{className:s?"mist-reading":`edition-reading edition-work${n.tag==="小说"?" edition-reading--novel":""}`,children:[s?p.jsx(L,{work:n}):p.jsx(m,{work:n,title:n.title||t,subtitle:p.jsxs(p.Fragment,{children:[n.tag&&p.jsx("span",{className:"tag",children:n.tag})," ",n.date]}),backTo:"/work",backLabel:"返回作品列表",variant:"reading"}),p.jsxs("div",{className:"container container--reading reading-shell",children:[s&&p.jsxs("div",{className:"mist-reading-label",children:[p.jsx("span",{children:"正文"}),p.jsx("span",{"aria-hidden":"true",children:"TEXT / 01"})]}),!s&&p.jsxs("div",{className:"edition-reading-preface",children:[p.jsx("span",{className:"edition-reading-kicker",children:"作品选读"}),n.summary&&p.jsx("p",{className:"serif",children:n.summary})]}),p.jsx("article",{className:"markdown-body",dangerouslySetInnerHTML:{__html:n.body||""}}),s&&p.jsxs("div",{className:"mist-reading-end","aria-hidden":"true",children:[p.jsx("span",{})," ◇ ",p.jsx("span",{})]}),!s&&p.jsx("div",{className:"edition-reading-end","aria-hidden":"true",children:"◇"}),p.jsx(N,{collection:"work",slug:n.slug}),n.backlinks&&n.backlinks.length>0&&p.jsxs("nav",{className:"work-backlinks",children:[p.jsx("div",{className:"work-backlinks-title",children:"被以下页面引用"}),p.jsx("div",{className:"work-backlinks-list",children:n.backlinks.map((r,e)=>p.jsx(a,{to:`/works/${r.slug}`,className:"post-nav-item",children:p.jsx("span",{className:"post-nav-title",children:r.title})},e))})]}),p.jsx("div",{className:"page-return",children:p.jsx(a,{to:"/work",className:"back-link",children:"← 返回作品列表"})})]})]}):p.jsxs("div",{className:"container container--reading page-empty",children:[p.jsx("h1",{className:"serif page-title",children:"作品未找到"}),p.jsx(a,{to:"/work",className:"back-link",children:"← 返回作品列表"})]})}function E(){const t=f(),[n,s]=h.useState(""),[r,e]=h.useState("gallery"),o=n?y(n,i):null;return p.jsxs(p.Fragment,{children:[p.jsx(m,{title:"作品",subtitle:"SELECTED WORKS"}),p.jsx("div",{className:"container container--wide sub-page edition-portfolio",children:p.jsxs("section",{children:[p.jsx("input",{className:"wiki-search-input","aria-label":"搜索作品",type:"text",placeholder:"搜索作品...（名称，类型，关键词）",value:n,onChange:g=>s(g.target.value)}),p.jsx(j,{count:o?o.length:t.length,view:r,onViewChange:e,withMap:!0}),r==="map"?p.jsx(h.Suspense,{fallback:p.jsx("p",{role:"status",children:"正在展开作品关系…"}),children:p.jsx(A,{works:i,visibleWorks:o??t})}):o?p.jsxs("div",{className:`work-grid edition-work-grid view--${r}`,children:[o.length===0&&p.jsx("p",{className:"empty-state",children:"未找到匹配的作品"}),o.map((g,c)=>p.jsx(l,{work:g,index:c,evidence:g.evidence},g.slug))]}):p.jsxs("div",{className:`work-grid edition-work-grid view--${r}`,children:[t.length===0&&p.jsx("p",{className:"empty-state",children:"暂无作品"}),t.map((g,c)=>p.jsx(l,{work:g,index:c},g.slug))]})]})})]})}export{E as WorkList,_ as default};
