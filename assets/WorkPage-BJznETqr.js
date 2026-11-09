@@ -1,0 +1,1 @@
+import{j as e,D as t,W as r}from"./index-DLO_S0Mx.js";import{P as s}from"./PageHeader-BDb-9C8t.js";function o(){return e.jsxs(e.Fragment,{children:[e.jsx(s,{title:t.works.title,subtitle:t.works.subtitle}),e.jsx("div",{className:"container container--wide sub-page",children:e.jsx(r,{full:!0})})]})}export{o as default};
