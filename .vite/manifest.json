@@ -11,8 +11,8 @@
     "file": "assets/【送别】- Dreaming of Home and Mother （English Version) _vdm7845EW8M_-BYceS1Yx.mp3",
     "src": "../Music/【送别】- Dreaming of Home and Mother （English Version) [vdm7845EW8M].mp3"
   },
-  "_Comments-aTsDjapL.js": {
-    "file": "assets/Comments-aTsDjapL.js",
+  "_Comments-F7OclKW-.js": {
+    "file": "assets/Comments-F7OclKW-.js",
     "name": "Comments",
     "imports": [
       "index.html"
@@ -21,8 +21,8 @@
       "node_modules/@giscus/react/dist/giscus-Ci9LqPcC.js"
     ]
   },
-  "_PageHeader-BDb-9C8t.js": {
-    "file": "assets/PageHeader-BDb-9C8t.js",
+  "_PageHeader-CHpOT-iM.js": {
+    "file": "assets/PageHeader-CHpOT-iM.js",
     "name": "PageHeader",
     "imports": [
       "index.html"
@@ -41,11 +41,12 @@
     "name": "wiki-search"
   },
   "index.html": {
-    "file": "assets/index-DLO_S0Mx.js",
+    "file": "assets/index-B8Vbx7Lm.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
+      "src/components/PaintedWorld.jsx",
       "src/utils/music-player.js",
       "src/pages/AboutPage.jsx",
       "src/pages/PsycheDetailPage.jsx",
@@ -62,9 +63,15 @@
       "src/components/WorkMap.jsx"
     ],
     "css": [
-      "assets/index-KNawfE0j.css"
+      "assets/index-DjfXagdH.css"
     ],
     "assets": [
+      "assets/birdsong-B7qq3_Fh.webp",
+      "assets/birdsong-small-v444orAv.webp",
+      "assets/windward-BaxPOyzL.webp",
+      "assets/windward-small-Bay18zgJ.webp",
+      "assets/toward-light-olNfGn8f.webp",
+      "assets/toward-light-small-DOgxXwha.webp",
       "assets/day-mountains-Dh6NkSVf.svg"
     ]
   },
@@ -74,12 +81,56 @@
     "src": "node_modules/@giscus/react/dist/giscus-Ci9LqPcC.js",
     "isDynamicEntry": true
   },
+  "src/assets/dwelling/birdsong-small.webp": {
+    "file": "assets/birdsong-small-v444orAv.webp",
+    "src": "src/assets/dwelling/birdsong-small.webp"
+  },
+  "src/assets/dwelling/birdsong.webp": {
+    "file": "assets/birdsong-B7qq3_Fh.webp",
+    "src": "src/assets/dwelling/birdsong.webp"
+  },
+  "src/assets/dwelling/profile-portrait-small.webp": {
+    "file": "assets/profile-portrait-small-D4xMvh6w.webp",
+    "src": "src/assets/dwelling/profile-portrait-small.webp"
+  },
+  "src/assets/dwelling/profile-portrait.webp": {
+    "file": "assets/profile-portrait-cYw6-EFV.webp",
+    "src": "src/assets/dwelling/profile-portrait.webp"
+  },
+  "src/assets/dwelling/toward-light-small.webp": {
+    "file": "assets/toward-light-small-DOgxXwha.webp",
+    "src": "src/assets/dwelling/toward-light-small.webp"
+  },
+  "src/assets/dwelling/toward-light.webp": {
+    "file": "assets/toward-light-olNfGn8f.webp",
+    "src": "src/assets/dwelling/toward-light.webp"
+  },
+  "src/assets/dwelling/windward-small.webp": {
+    "file": "assets/windward-small-Bay18zgJ.webp",
+    "src": "src/assets/dwelling/windward-small.webp"
+  },
+  "src/assets/dwelling/windward.webp": {
+    "file": "assets/windward-BaxPOyzL.webp",
+    "src": "src/assets/dwelling/windward.webp"
+  },
   "src/assets/scenery/day-mountains.svg": {
     "file": "assets/day-mountains-Dh6NkSVf.svg",
     "src": "src/assets/scenery/day-mountains.svg"
   },
+  "src/components/PaintedWorld.jsx": {
+    "file": "assets/PaintedWorld-Buz1O4tY.js",
+    "name": "PaintedWorld",
+    "src": "src/components/PaintedWorld.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/PaintedWorld-CB_VsyEI.css"
+    ]
+  },
   "src/components/WorkMap.jsx": {
-    "file": "assets/WorkMap-D1U480fj.js",
+    "file": "assets/WorkMap-CaiINk_b.js",
     "name": "WorkMap",
     "src": "src/components/WorkMap.jsx",
     "isDynamicEntry": true,
@@ -88,37 +139,47 @@
     ]
   },
   "src/pages/AboutPage.jsx": {
-    "file": "assets/AboutPage-CZLTVk9J.js",
+    "file": "assets/AboutPage-DO-hFDwG.js",
     "name": "AboutPage",
     "src": "src/pages/AboutPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BDb-9C8t.js"
+      "_PageHeader-CHpOT-iM.js"
+    ],
+    "css": [
+      "assets/AboutPage-Dffi6RoX.css"
+    ],
+    "assets": [
+      "assets/profile-portrait-cYw6-EFV.webp",
+      "assets/profile-portrait-small-D4xMvh6w.webp"
     ]
   },
   "src/pages/AiChatPage.jsx": {
-    "file": "assets/AiChatPage-BNzY53Mz.js",
+    "file": "assets/AiChatPage-BOTWB3Dl.js",
     "name": "AiChatPage",
     "src": "src/pages/AiChatPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BDb-9C8t.js"
+      "_PageHeader-CHpOT-iM.js"
+    ],
+    "css": [
+      "assets/AiChatPage-DpGe-PVU.css"
     ]
   },
   "src/pages/ArchivePage.jsx": {
-    "file": "assets/ArchivePage-tSSU0Nzk.js",
+    "file": "assets/ArchivePage-BDUqK6qy.js",
     "name": "ArchivePage",
     "src": "src/pages/ArchivePage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BDb-9C8t.js"
+      "_PageHeader-CHpOT-iM.js"
     ]
   },
   "src/pages/BlogPage.jsx": {
-    "file": "assets/BlogPage-B5Wh4L5J.js",
+    "file": "assets/BlogPage-DHoERlG9.js",
     "name": "BlogPage",
     "src": "src/pages/BlogPage.jsx",
     "isDynamicEntry": true,
@@ -126,100 +187,100 @@
       "index.html",
       "_blog-posts-CXU1f_Qt.js",
       "_wiki-search-CQSZVYQ6.js",
-      "_PageHeader-BDb-9C8t.js"
+      "_PageHeader-CHpOT-iM.js"
     ]
   },
   "src/pages/BlogPost.jsx": {
-    "file": "assets/BlogPost-C4o5kEXe.js",
+    "file": "assets/BlogPost-CnQGLme-.js",
     "name": "BlogPost",
     "src": "src/pages/BlogPost.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_blog-posts-CXU1f_Qt.js",
-      "_PageHeader-BDb-9C8t.js",
-      "_Comments-aTsDjapL.js"
+      "_PageHeader-CHpOT-iM.js",
+      "_Comments-F7OclKW-.js"
     ]
   },
   "src/pages/ContactPage.jsx": {
-    "file": "assets/ContactPage-DtacVhJX.js",
+    "file": "assets/ContactPage-D2UlL11v.js",
     "name": "ContactPage",
     "src": "src/pages/ContactPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BDb-9C8t.js"
+      "_PageHeader-CHpOT-iM.js"
     ]
   },
   "src/pages/NotFoundPage.jsx": {
-    "file": "assets/NotFoundPage-Bsp7YaKV.js",
+    "file": "assets/NotFoundPage-ByAWS6Cx.js",
     "name": "NotFoundPage",
     "src": "src/pages/NotFoundPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BDb-9C8t.js"
+      "_PageHeader-CHpOT-iM.js"
     ]
   },
   "src/pages/PsycheDetailPage.jsx": {
-    "file": "assets/PsycheDetailPage-v3-Z_EmI.js",
+    "file": "assets/PsycheDetailPage-CrUPAGBq.js",
     "name": "PsycheDetailPage",
     "src": "src/pages/PsycheDetailPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BDb-9C8t.js"
+      "_PageHeader-CHpOT-iM.js"
     ]
   },
   "src/pages/RssPage.jsx": {
-    "file": "assets/RssPage-CPaWh-PB.js",
+    "file": "assets/RssPage-xBP7m4W9.js",
     "name": "RssPage",
     "src": "src/pages/RssPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_rss-items-BIkaZDLm.js",
-      "_PageHeader-BDb-9C8t.js"
+      "_PageHeader-CHpOT-iM.js"
     ]
   },
   "src/pages/StatusPage.jsx": {
-    "file": "assets/StatusPage-D-t4IYCJ.js",
+    "file": "assets/StatusPage-DI089AnW.js",
     "name": "StatusPage",
     "src": "src/pages/StatusPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BDb-9C8t.js",
+      "_PageHeader-CHpOT-iM.js",
       "_rss-items-BIkaZDLm.js"
     ]
   },
   "src/pages/WorkDetail.jsx": {
-    "file": "assets/WorkDetail-DehATXFK.js",
+    "file": "assets/WorkDetail-DtjGrKLI.js",
     "name": "WorkDetail",
     "src": "src/pages/WorkDetail.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_wiki-search-CQSZVYQ6.js",
-      "_PageHeader-BDb-9C8t.js",
-      "_Comments-aTsDjapL.js"
+      "_PageHeader-CHpOT-iM.js",
+      "_Comments-F7OclKW-.js"
     ],
     "dynamicImports": [
       "src/components/WorkMap.jsx"
     ]
   },
   "src/pages/WorkPage.jsx": {
-    "file": "assets/WorkPage-BJznETqr.js",
+    "file": "assets/WorkPage-CGr1ra7S.js",
     "name": "WorkPage",
     "src": "src/pages/WorkPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PageHeader-BDb-9C8t.js"
+      "_PageHeader-CHpOT-iM.js"
     ]
   },
   "src/utils/music-player.js": {
-    "file": "assets/music-player-BvrDuM8l.js",
+    "file": "assets/music-player-bTbJuBZ5.js",
     "name": "music-player",
     "src": "src/utils/music-player.js",
     "isDynamicEntry": true,
